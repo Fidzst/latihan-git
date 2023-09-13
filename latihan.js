@@ -1,4 +1,5 @@
 function luasPersegiPanjang(panjang, lebar){
         return panjang * lebar
 }
-console.log(luasPersegiPanjang(5, 5))
+console.log(luasPersegiPanjang(5, 10))
+
